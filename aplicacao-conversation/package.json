@@ -1,0 +1,15 @@
+{
+  "name": "aplicacao-conversation",
+  "version": "1.0.0",
+  "description": "um código para se comunicar com o servico de conversation",
+  "main": "aplicacao-conversation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cassia sampaio",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.1.5",
+    "watson-developer-cloud": "^2.42.0"
+  }
+}
